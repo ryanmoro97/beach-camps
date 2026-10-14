@@ -14,7 +14,7 @@ body {
   line-height: 1.6;
 }
 
-/* ===== Header and navigation ===== */
+
 header {
   background-color: var(--navy);
   color: white;
@@ -49,14 +49,14 @@ nav a.active {
   color: var(--orange);
 }
 
-/* ===== Main content ===== */
+
 main {
   max-width: 900px;
   margin: 0 auto;
   padding: 2rem;
 }
 
-/* Different heading styles (required by the rubric) */
+
 h1 {
   font-family: Georgia, serif;
   color: var(--navy);
@@ -70,7 +70,6 @@ h2 {
   padding-bottom: 0.25rem;
 }
 
-/* Different paragraph style for the tagline */
 .tagline {
   font-size: 1.2rem;
   font-style: italic;
@@ -80,7 +79,7 @@ a {
   color: var(--navy);
 }
 
-/* ===== Home page ===== */
+
 .hero {
   text-align: center;
 }
@@ -112,7 +111,6 @@ a {
   text-decoration: none;
 }
 
-/* ===== Table ===== */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -131,7 +129,6 @@ th {
   color: white;
 }
 
-/* ===== Form ===== */
 form {
   display: flex;
   flex-direction: column;
@@ -168,7 +165,6 @@ button {
   margin: 0.5rem 0 0;
 }
 
-/* ===== Footer ===== */
 footer {
   background-color: var(--navy);
   color: white;
